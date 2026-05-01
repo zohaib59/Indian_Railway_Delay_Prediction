@@ -1,0 +1,22 @@
+# 🚆 Train Delay Prediction – Indian Railways Case Study
+
+## Overview
+This project builds a **production-grade ML pipeline** to predict train delays in Indian Railways.  
+It combines **classification** (Late vs. On-time) and **regression** (minutes late) using a dataset of **
+over 1.5 million intelligently imputed records**.
+
+What if you could predict train delays before they happen?
+I built a production-ready ML pipeline trained on 1.5M+ intelligently imputed records from Indian Railways.
+
+🔹 Dual Prediction:
+
+Classification → Late vs. On-time
+
+Regression → How many minutes late
+
+🔹 Tech Stack:  
+Python, Pandas, Scikit-learn, AutoViz, Colab
+
+
+
+
